@@ -15,3 +15,7 @@ git checkout -- file可还原
 文件已修改，并add到暂存区未commit：
 git read HEAD file
 git checkout -- file可还原
+
+//分支
+$ git checkout -b dev //创建并切换分支
+$ git branch dev  //查看当前分支
