@@ -1,0 +1,17 @@
+1.git status 查看git是否有修改内容需要提交
+2.git add 指向需要提交的内容文件 参数 * 表示提交全部。提交的内容到暂存区。
+3.git commit 提交到本地库，也就是把暂存区的内容提交到本地库。
+4.git push origin master 提交到远程仓库
+
+
+$ git reset --hard HEAD^  //回退上一个版本
+$ git log  //查看当前库所有版本
+$ git reset --hard 3628164   //回到指定版本库
+$ git reflog  //查看库所有版本的ID
+
+文件已修改，未add到暂存区:
+git checkout -- file可还原
+
+文件已修改，并add到暂存区未commit：
+git read HEAD file
+git checkout -- file可还原
