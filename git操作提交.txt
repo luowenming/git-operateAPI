@@ -19,3 +19,5 @@ git checkout -- file可还原
 //分支
 $ git checkout -b dev //创建并切换分支
 $ git branch dev  //查看当前分支
+
+$ git branch dev  //查看当前分支
