@@ -38,3 +38,4 @@ git mergeÃüÁîÓÃÓÚºÏ²¢Ö¸¶¨·ÖÖ§µ½µ±Ç°·ÖÖ§¡£ºÏ²¢ºó£¬ÔÙ²é¿´readme.txtµÄÄÚÈÝ£¬¾Í¿ÉÒÔ¿
 Git·ÖÖ§Ê®·ÖÇ¿´ó£¬ÔÚÍÅ¶Ó¿ª·¢ÖÐÓ¦¸Ã³ä·ÖÓ¦ÓÃ¡£
 ºÏ²¢·ÖÖ§Ê±£¬¼ÓÉÏ--no-ff²ÎÊý¾Í¿ÉÒÔÓÃÆÕÍ¨Ä£Ê½ºÏ²¢£¬ºÏ²¢ºóµÄÀúÊ·ÓÐ·ÖÖ§£¬ÄÜ¿´³öÀ´Ôø¾­×ö¹ýºÏ²¢£¬¶øfast forwardºÏ²¢¾Í¿´²»³öÀ´Ôø¾­×ö¹ýºÏ²¢¡£
 
+//ÐÞ¸´bugÍê³É
